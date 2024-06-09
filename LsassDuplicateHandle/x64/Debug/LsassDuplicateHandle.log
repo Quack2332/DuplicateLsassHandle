@@ -1,0 +1,4 @@
+﻿  LsassDuplicateHandle.cpp
+C:\Users\dev\source\repos\LsassDuplicateHandle\LsassDuplicateHandle\header.h(14,1): warning C4005: 'NT_SUCCESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winternl.h(902,1): message : see previous definition of 'NT_SUCCESS'
+  LsassDuplicateHandle.vcxproj -> C:\Users\dev\source\repos\LsassDuplicateHandle\x64\Debug\LsassDuplicateHandle.exe
